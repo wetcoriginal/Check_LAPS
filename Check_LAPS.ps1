@@ -59,7 +59,7 @@ else
 {
 $state="OK"
 $exitcode=0
-$output="OK: Pas de PC n'ayant pas LAPS d'installé présent dans l'OU Computers"
+$output="OK: Pas de PC n'ayant pas LAPS d'installé présent dans l'OU 'Ordinateurs'"
 Write-Host $output
 }
  
