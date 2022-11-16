@@ -1,6 +1,6 @@
 # ====================================================================
 # Search computers without LAPS in AD in OU computers. To be used through NRPE / nsclient++
-# Author: LACHEREZ Jordy
+# Author: @wetcoriginal
 # ====================================================================
  
 #
